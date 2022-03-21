@@ -1,0 +1,33 @@
+@import url('../font/idroid.otf');
+
+body{
+      font: 20px Arial, Sans-serif;  
+
+}
+
+.navbar{
+
+        background-color: aqua;
+
+}
+.tecnologias{
+
+        background-color: rgb(117, 105, 233);
+        color: white;
+}
+.margin{
+    
+        padding-bottom: 50px;
+        padding-top: 10px;
+
+
+}
+.Parceiros{
+
+        background-color: rgb(27, 155, 91);
+}
+.autor{
+
+        background-color: aqua;
+        color: white;
+}
